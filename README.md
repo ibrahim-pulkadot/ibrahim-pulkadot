@@ -4,13 +4,7 @@
    ════════════════════════════════════════════════════════════════ -->
 
 <!-- ─────────────────────────  HEADER BANNER  ───────────────────────── -->
-<a href="https://pulkadot.com">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=%C4%B0brahim%20%C2%B7%20Pulkadot&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40Pulkadot%20%26%20Full-Stack%20Developer&descSize=16&descAlignY=58"
-    width="100%"
-    alt="İbrahim · Pulkadot"
-  />
-</a>
+<a href="https://pulkadot.com"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=%C4%B0brahim%20%C2%B7%20Pulkadot&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40Pulkadot%20%26%20Full-Stack%20Developer&descSize=16&descAlignY=58" width="100%" alt="İbrahim · Pulkadot" /></a>
 
 <!-- ─────────────────────────  TYPING SVG  ───────────────────────── -->
 <div align="center">
@@ -128,7 +122,7 @@ const ibrahim = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrahim-pulkadot&show_icons=true&count_private=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrahim-pulkadot&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" />
 &nbsp;
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-pulkadot&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
 
