@@ -4,7 +4,7 @@
    ════════════════════════════════════════════════════════════════ -->
 
 <!-- ─────────────────────────  HEADER BANNER  ───────────────────────── -->
-<a href="https://pulkadot.com"><img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=200&section=header&text=%C4%B0brahim%20%C2%B7%20Pulkadot&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%40Pulkadot%20%26%20Full-Stack%20Developer&descSize=16&descAlignY=58" width="100%" alt="İbrahim · Pulkadot" /></a>
+<a href="https://pulkadot.com"><img src="https://raw.githubusercontent.com/ibrahim-pulkadot/ibrahim-pulkadot/main/assets/header.svg" width="100%" alt="İbrahim · Pulkadot — Founder @Pulkadot & Full-Stack Developer" /></a>
 
 <!-- ─────────────────────────  TYPING SVG  ───────────────────────── -->
 <div align="center">
@@ -182,4 +182,4 @@ const ibrahim = {
 </div>
 
 <!-- ─────────────────────────  FOOTER  ───────────────────────── -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366F1,100:8B5CF6&height=10&section=footer" width="100%" alt="footer" />
+<img src="https://raw.githubusercontent.com/ibrahim-pulkadot/ibrahim-pulkadot/main/assets/footer.svg" width="100%" alt="" />

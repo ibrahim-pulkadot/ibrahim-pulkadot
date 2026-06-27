@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" width="1200" height="200" fill="none" role="img" aria-label="İbrahim · Pulkadot — Founder @Pulkadot & Full-Stack Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="200" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#8B5CF6">
+        <animate attributeName="stop-color" values="#8B5CF6;#7C6FF0;#6366F1;#7C6FF0;#8B5CF6" dur="12s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="1" stop-color="#6366F1">
+        <animate attributeName="stop-color" values="#6366F1;#8B5CF6;#7C6FF0;#6366F1" dur="12s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="500" y2="0" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="-500 0" to="1200 0" dur="7s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="200" fill="url(#bg)"/>
+  <rect width="1200" height="200" fill="url(#sheen)"/>
+
+  <path fill="#ffffff" fill-opacity="0.07"
+        d="M0 152 Q 150 122 300 152 T 600 152 T 900 152 T 1200 152 V200 H0 Z">
+    <animate attributeName="d" dur="9s" repeatCount="indefinite"
+      values="M0 152 Q 150 122 300 152 T 600 152 T 900 152 T 1200 152 V200 H0 Z;
+              M0 152 Q 150 182 300 152 T 600 152 T 900 152 T 1200 152 V200 H0 Z;
+              M0 152 Q 150 122 300 152 T 600 152 T 900 152 T 1200 152 V200 H0 Z"/>
+  </path>
+  <path fill="#ffffff" fill-opacity="0.05"
+        d="M0 168 Q 200 144 400 168 T 800 168 T 1200 168 V200 H0 Z">
+    <animate attributeName="d" dur="11s" repeatCount="indefinite"
+      values="M0 168 Q 200 144 400 168 T 800 168 T 1200 168 V200 H0 Z;
+              M0 168 Q 200 192 400 168 T 800 168 T 1200 168 V200 H0 Z;
+              M0 168 Q 200 144 400 168 T 800 168 T 1200 168 V200 H0 Z"/>
+  </path>
+
+  <text x="600" y="96" text-anchor="middle" fill="#ffffff"
+        font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="50" font-weight="700"
+        letter-spacing="0.5" opacity="0">
+    İbrahim · Pulkadot
+    <animate attributeName="opacity" from="0" to="1" dur="1.2s" begin="0.1s" fill="freeze"/>
+  </text>
+  <text x="600" y="132" text-anchor="middle" fill="#EDE9FE"
+        font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" font-weight="400"
+        letter-spacing="1.5" opacity="0">
+    Founder @Pulkadot &amp; Full-Stack Developer
+    <animate attributeName="opacity" from="0" to="0.92" dur="1.6s" begin="0.5s" fill="freeze"/>
+  </text>
+</svg>
