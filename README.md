@@ -4,7 +4,7 @@
    ════════════════════════════════════════════════════════════════ -->
 
 <!-- ─────────────────────────  HEADER BANNER  ───────────────────────── -->
-<a href="https://pulkadot.com"><img src="https://raw.githubusercontent.com/ibrahim-pulkadot/ibrahim-pulkadot/main/assets/header.svg" width="100%" alt="İbrahim · Pulkadot — Founder @Pulkadot & Full-Stack Developer" /></a>
+<!-- <a href="https://pulkadot.com"><img src="https://raw.githubusercontent.com/ibrahim-pulkadot/ibrahim-pulkadot/main/assets/header.svg" width="100%" alt="İbrahim · Pulkadot — Founder @Pulkadot & Full-Stack Developer" /></a> -->
 
 <!-- ─────────────────────────  TYPING SVG  ───────────────────────── -->
 <div align="center">
