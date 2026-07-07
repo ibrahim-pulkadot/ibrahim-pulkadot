@@ -42,7 +42,7 @@ const ibrahim = {
   role: "Founder @Pulkadot · Full-Stack Developer",
   base: "🇹🇷 Türkiye",
   focus: ["Micro-SaaS", "AI-powered products", "DX & clean UI"],
-  currentlyBuilding: "NefesLife — AI destekli sigara bırakma uygulaması",
+  currentlyBuilding: "NefesYolu — AI destekli sigara bırakma uygulaması",
   stack: ["Next.js", "TypeScript", "Node.js", "MongoDB", "Tailwind", "Claude AI"],
   philosophy: "Ship small, ship often. Keep it simple. ☕",
 };
@@ -80,7 +80,7 @@ const ibrahim = {
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🫁 NefesLife</h3>
+      <h3>🫁 NefesYolu</h3>
       <p>
         <b>🇬🇧</b> An AI-powered, freemium micro-SaaS that helps people quit smoking —
         money saved, smoke-free streaks, milestone badges, and an AI coach for craving moments.
