@@ -118,21 +118,7 @@ const ibrahim = {
 <br/>
 
 <!-- ─────────────────────────  GITHUB STATS  ───────────────────────── -->
-## 📊 GitHub Stats · İstatistikler
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ibrahim-pulkadot&show_icons=true&rank_icon=github&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=A78BFA&text_color=C9D1D9" alt="GitHub stats" />
-&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibrahim-pulkadot&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9" alt="Top languages" />
-
-<br/><br/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=ibrahim-pulkadot&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9&dayLabels=C9D1D9" alt="GitHub streak" />
-
-</div>
-
-<br/>
 
 <!-- ─────────────────────────  ACTIVITY GRAPH  ───────────────────────── -->
 ## 📈 Contribution Graph · Katkı Grafiği
