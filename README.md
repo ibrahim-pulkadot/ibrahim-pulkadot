@@ -40,7 +40,7 @@
 ```ts
 const ibrahim = {
   role: "Founder @Pulkadot · Full-Stack Developer",
-  base: "🇹🇷 Türkiye",
+  base: "Türkiye",
   focus: ["Micro-SaaS", "AI-powered products", "DX & clean UI"],
   currentlyBuilding: "NefesYolu — AI destekli sigara bırakma uygulaması",
   stack: ["Next.js", "TypeScript", "Node.js", "MongoDB", "Tailwind", "Claude AI"],
