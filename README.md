@@ -33,9 +33,9 @@
 <!-- ─────────────────────────  ABOUT  ───────────────────────── -->
 ## 🧑‍💻 About Me · Hakkımda
 
-> 🇬🇧 &nbsp; Hi! I'm **İbrahim**, founder of **[Pulkadot](https://pulkadot.com)** and a full-stack developer who loves turning ideas into shipped products. I build **micro-SaaS** apps end to end — from the database to the pixels — mostly with **Next.js, TypeScript & AI**.
+> ❤️ &nbsp; Hi! I'm **İbrahim**, founder of **[Pulkadot](https://pulkadot.com)** and a full-stack developer who loves turning ideas into shipped products. I build **micro-SaaS** apps end to end — from the database to the pixels — mostly with **Next.js, TypeScript & AI**.
 >
-> 🇹🇷 &nbsp; Merhaba! Ben **İbrahim**, **[Pulkadot](https://pulkadot.com)**'un kurucusu ve fikirleri canlı ürünlere dönüştürmeyi seven bir full-stack geliştiriciyim. **Micro-SaaS** uygulamalarını uçtan uca kuruyorum — veritabanından arayüze kadar — çoğunlukla **Next.js, TypeScript ve AI** ile.
+> ❤️ &nbsp; Merhaba! Ben **İbrahim**, **[Pulkadot](https://pulkadot.com)**'un kurucusu ve fikirleri canlı ürünlere dönüştürmeyi seven bir full-stack geliştiriciyim. **Micro-SaaS** uygulamalarını uçtan uca kuruyorum — veritabanından arayüze kadar — çoğunlukla **Next.js, TypeScript ve AI** ile.
 
 ```ts
 const ibrahim = {
